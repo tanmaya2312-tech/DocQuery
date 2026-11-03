@@ -1,0 +1,5 @@
+Internship Eligibility
+
+Students must know basic programming.
+Students should understand data structures.
+Students must submit a resume before applying.
